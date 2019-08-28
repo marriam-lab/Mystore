@@ -1,0 +1,24 @@
+{
+  "name": "mystore",
+  "version": "1.0.0",
+  "description": "My first store",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marriam-lab/Mystore.git"
+  },
+  "author": "Mariam Alghfeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marriam-lab/Mystore/issues"
+  },
+  "homepage": "https://github.com/marriam-lab/Mystore#readme"
+}

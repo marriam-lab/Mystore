@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "productId": "01",
+      "name": "Velvet liguid lipstick",
+      "desctiption": "Kylie Cosmetics",
+      "price": "105.00",
+      "link": "img_mountains.jpg",
+      "img": "/Users/mariamahmed/Desktop/githup/Mystore/img4.jpg"
+    },
+    {
+      "productId": "02",
+      "name": "Pink Shimmer Eyeshadow",
+      "desctiption": "Kylie Cosmetics",
+      "price": "115.00",
+      "link": "img_mountains.jpg",
+      "img": "/Users/mariamahmed/Desktop/githup/Mystore/img5.jpg"
+    },
+    {
+      "productId": "03",
+      "name": "Island Time Pallet",
+      "desctiption": "Brand: Ofra Cosmetics",
+      "price": "180.00",
+      "link": "img_mountains.jpg",
+      "img": "img1"
+    },
+    {
+      "productId": "04",
+      "name": "Revolution pallet",
+      "desctiption": "Brand: Makeup Revolution ",
+      "price": "40.00",
+      "link": "img_5terre.jpg",
+      "img": "/Users/mariamahmed/Desktop/githup/Mystore/img1.jpg"
+    }
+  ]
+}
